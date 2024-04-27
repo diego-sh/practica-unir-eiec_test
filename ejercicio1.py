@@ -1,3 +1,5 @@
 print("Por favor ingrese su nombre:")
 nombre = input()
-print(f"Su nombre fue ingresado, gracias {nombre}")
+print("Por favor ingrese su apellido:")
+apellido = input()
+print(f"Sus datos fueron ingresados, gracias {nombre} {apellido}")
