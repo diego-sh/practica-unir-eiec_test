@@ -1,1 +1,5 @@
-print("Hola mundo, Diego Alpala")
+print("Por favor ingrese su nombre:")
+nombre = input()
+print("Por favor ingrese su apellido:")
+apellido = input()
+print(f"Sus datos fueron ingresados, gracias {nombre} {apellido}")
